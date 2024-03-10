@@ -1,0 +1,53 @@
+header {
+    background-color: rgb(255, 232, 213);
+    color: rgb(71, 57, 57);
+    text-align: center;
+    padding: 1cm;
+    font-size: 30px;
+}
+nav {
+    background-color: rgb(248, 207, 169);
+    text-align: center;
+    
+}
+a:hover {
+    color: red;
+    
+}
+a {
+    text-decoration: none;
+}
+
+.vertical {
+    width: 4cm;
+    background-color: rgb(247, 170, 123);
+    float: left;
+    height: 312px;
+    text-align: start;
+}
+
+ul {
+    list-style-type: none;
+}
+section {
+    padding: 2cm;
+    text-align: left;
+    background-color: rgb(255, 232, 213);
+    color: rgb(71, 57, 57);
+}
+article {
+    background-color: rgb(248, 207, 169);
+    padding-left: 2cm;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    
+}
+main {
+    padding-left: 3cm;
+}
+footer {
+    background-color: rgb(255, 232, 213);
+    color: rgb(71, 57, 57);
+    padding: 1px;
+    text-align: center;
+}
